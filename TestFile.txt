@@ -1,1 +1,4 @@
-test
+Put following configuration in repos "\TestMyFirstGitHubPJ\.git\config" file for identity of user so progress can be shown on Github. 
+[user]
+	name = Fenil Desai
+	email = fenildesai00@gmail.com
